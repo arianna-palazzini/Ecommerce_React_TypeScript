@@ -1,0 +1,34 @@
+#container-prodotti {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#link-new {
+  border: 1px solid #919ea6;
+  width: 150px;
+  margin: 0 auto;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+#link-new:hover {
+  background-color: #d6dbde;
+  color: white;
+}
+
+.navlink {
+  border-radius: 7px;
+  padding: 3px;
+  width: 30px;
+  height: 30px;
+  background-color: #919ea6;
+  margin: 10px;
+}
+/*# sourceMappingURL=Prodotti.css.map */

@@ -1,0 +1,27 @@
+#container-prodotti{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#link-new{
+    border: 1px solid rgb(145, 158, 166);
+    width: 150px;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    &:hover{
+        background-color:rgb(214, 219, 222);
+        color: white;
+    }
+}
+
+.navlink{
+    border-radius:7px;
+    padding: 3px;
+    width: 30px;
+    height: 30px;
+    background-color:rgb(145, 158, 166);
+    margin: 10px;
+}

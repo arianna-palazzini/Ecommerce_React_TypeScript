@@ -1,0 +1,32 @@
+#div-dettagli-prodotto {
+    background-color: rgb(248, 254, 254);
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 6px;
+    box-shadow: 5px 5px 10px gray;
+    overflow: hidden;
+    text-align: justify;
+    justify-content: space-evenly;
+    width: 60%;
+    margin: 0 auto;
+
+    img {
+        display: block;
+        width: 10%;
+        height: 5%;
+        margin: 10px;
+    }
+
+    label {
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+}
+
+#info-prodotto {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px
+}

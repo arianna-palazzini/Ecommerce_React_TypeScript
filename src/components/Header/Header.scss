@@ -1,0 +1,29 @@
+header{
+    background-image: linear-gradient(rgb(145, 158, 166), white);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+
+    h2{
+        margin: 0;
+        padding: 10px;
+        color: white;
+    }
+
+    #logout{
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 2px;
+        color: white;
+        cursor: pointer;
+        background-color: rgb(145, 158, 166);
+        font-size: medium;
+
+        &:hover{
+            background-color: rgb(98, 108, 114);
+        }
+    }
+
+}

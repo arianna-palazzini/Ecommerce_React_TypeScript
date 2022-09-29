@@ -1,0 +1,19 @@
+#div-login {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#div-login button {
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 2px;
+  color: white;
+  cursor: pointer;
+  background-color: #919ea6;
+}
+
+#div-login button:hover {
+  background-color: #626c72;
+}
+/*# sourceMappingURL=Login.css.map */

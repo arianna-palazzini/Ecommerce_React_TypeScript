@@ -1,0 +1,50 @@
+#div-nuovo-prodotto {
+  background-color: #f8fefe;
+  padding: 30px;
+  border-radius: 6px;
+  -webkit-box-shadow: 5px 5px 10px grey;
+          box-shadow: 5px 5px 10px grey;
+  width: 415px;
+  margin: 0 auto;
+}
+
+#div-nuovo-prodotto form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+#div-nuovo-prodotto input, #div-nuovo-prodotto textarea {
+  margin-bottom: 5px;
+  border: 1px solid #919ea6;
+  border-radius: 6px;
+  height: 22px;
+  width: 300px;
+}
+
+#div-nuovo-prodotto textarea {
+  height: 50px;
+}
+
+#div-nuovo-prodotto label {
+  font-weight: bold;
+  color: #919ea6;
+}
+
+#div-nuovo-prodotto button {
+  border: none;
+  background-color: #919ea6;
+  border-radius: 6px;
+  margin-top: 10px;
+  max-width: 100px;
+  padding: 5px;
+  color: white;
+}
+/*# sourceMappingURL=NuovoProdotto.css.map */
