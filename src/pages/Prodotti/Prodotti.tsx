@@ -19,6 +19,7 @@ function Prodotti() {
 
   useEffect(() => {
     if (products.length === 0) dispatch(chiamataProdotti());
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
