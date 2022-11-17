@@ -1,6 +1,6 @@
 ### Per visionare il progetto completo
 
-Link al progetto completo: https://ecommerce-react-typescript.netlify.app/
+Link al progetto completo: https://pokedex-react-typescript.netlify.app/
 
 
 ### Per iniziare il progetto
@@ -15,7 +15,7 @@ ____________________________________________
 
 
 ### To view the complete project
-Link to the full project: https://ecommerce-react-typescript.netlify.app/
+Link to the full project: https://pokedex-react-typescript.netlify.app/
 
 ### To start the project
 - Getting started with Create React App
