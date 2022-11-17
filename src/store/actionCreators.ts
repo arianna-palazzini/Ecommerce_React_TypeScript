@@ -27,7 +27,6 @@ export function chiamataProdotti(){
 
 //INERISCO PRODOTTI CHIAMATI IN ARRAY PRODOTTI NELLO STORE
 export function popolaProdotti(prodotti: Product): GeneralAction{
-    console.log(prodotti);
     return{
       type: POPOLA_PRODOTTI, 
       payload: prodotti
